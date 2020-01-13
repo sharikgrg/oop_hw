@@ -1,8 +1,8 @@
 :bowtie:
 # OOP
-- This repo contains examples of OOP from my initial OOP classes.
-- There are classes, with sub classes
-- The example shows inheritance, polymorphism, abstraction, encapsulation
+- This repo contains examples of OOP from my initial OOP classes
+- There is a class with attributes and methods
+- The class has been tested in a separate .py file to create objects and use methods
 
 ## Definitions
 
